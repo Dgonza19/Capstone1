@@ -1,0 +1,33 @@
+header
+{
+  background-color: bisque;
+}
+
+body
+{
+background-color: rgb(200, 195, 186);
+}
+
+h1
+{
+  text-align: left;
+  font-family: 'Abril Fatface', serif;
+  font-style: italic;
+  color: #faebd7;
+}
+h2 
+{
+  color: #8f795c;
+  text-align: center;
+  font-family: 'Abril Fatface', serif;
+  font-size: 46px; 
+}
+
+body
+{
+ text-align: center;
+ font-family: Poppins, sans-serif;
+ font-size: 16px;  
+}
+
+
