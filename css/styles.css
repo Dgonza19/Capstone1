@@ -1,33 +1,36 @@
 header
 {
-  background-color: bisque;
+  background-color: rgb(51, 195, 118);
 }
 
 body
 {
-background-color: rgb(200, 195, 186);
+ background-color: #8f795c;
+
 }
 
 h1
 {
   text-align: left;
-  font-family: 'Abril Fatface', serif;
+  font-family:inherit, serif;
   font-style: italic;
   color: #faebd7;
 }
 h2 
 {
-  color: #8f795c;
-  text-align: center;
-  font-family: 'Abril Fatface', serif;
-  font-size: 46px; 
+  color: #faebd7;
+  text-align:justify;
+  font-family:'Times New Roman', Times, serif
 }
 
-body
-{
- text-align: center;
- font-family: Poppins, sans-serif;
- font-size: 16px;  
+p {
+  font-family:inherit;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: larger;
+  text-indent: 60px;
+  text-align: center;
+  color: #faebd7;
 }
 
 
