@@ -1,6 +1,6 @@
 header
 {
-  background-color: rgb(51, 195, 118);
+  background-color: #8f795c;
 }
 
 body
@@ -31,6 +31,14 @@ p {
   text-indent: 60px;
   text-align: center;
   color: #faebd7;
+}
+
+label 
+
+{ 
+  color: bisque;
+  font-family: inherit;
+  
 }
 
 
