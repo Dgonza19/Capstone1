@@ -47,4 +47,10 @@ input
   text-align: center;
 }
 
+button
+{
+  background-color: bisque;
+  border-color: #8f795c;
+}
+
 
